@@ -16,7 +16,7 @@ Make sure all the tests are passing by running:
 
     bundle exec rspec
 
-Make the relevant changes, zip up your project and email back to Kudocs.  Please supply any relevant supporting documentation if you feel neccessary, may cover any of the following below:
+Make the relevant changes, zip up your project and email back to Kudocs.  Please supply any relevant supporting documentation if you feel necessary, may cover any of the following below:
  
  * Any assumptions you made.
  * What potential problems can you identify with the existing code?
