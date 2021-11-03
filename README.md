@@ -6,9 +6,8 @@ In this exercise, you'll see that there's a method in the `PhonePlan` class that
 
 ## Instructions
 
-To start, you'll want to fork this repo and clone it to your local machine.  Once downloaded run the setup script by doing the following:
+Run the setup script by doing the following:
 
-    cd kudocs-tech-exercise
     bin/setup
 
 Open up `lib/phone_plan.rb`. There you will see a single method named `cost`. Its corresponding tests are in `spec/lib/phone_plan_spec.rb`.
@@ -17,7 +16,7 @@ Make sure all the tests are passing by running:
 
     bundle exec rspec
 
-Make the relevant changes and send Kudocs a link to your forked repository, please DO NOT submit a PR to this repository.  Please supply any relevant supporting documentation if you feel neccessary, may cover any of the following below:
+Make the relevant changes, zip up your project and email back to Kudocs.  Please supply any relevant supporting documentation if you feel neccessary, may cover any of the following below:
  
  * Any assumptions you made.
  * What potential problems can you identify with the existing code?
